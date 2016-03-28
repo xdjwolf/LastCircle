@@ -1,8 +1,10 @@
 # LastCircle
 
-![Demo](demo.gif)
+![Logo](logo.png)
 
 A simple game developed by Swift([App Store](https://itunes.apple.com/us/app/last-circle/id1065436363?ls=1&mt=8)).
+
+![Demo](demo.gif)
 
 Last Circle is a game for testing and chanlleging your short-term memory.
 
